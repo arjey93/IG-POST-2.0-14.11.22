@@ -1,0 +1,71 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin-left: 80px;
+    margin-right: 80px;
+    background-color: black;
+}
+.account {
+    width: 110px;
+}
+
+.texto1 {
+    text-align: justify;
+}
+.icon1 {
+    }
+
+.ip-container {
+    margin-top: 30px;
+    width: 300px;
+    height:400px;
+    background-color: white;
+}
+
+.ip-title {
+    
+    justify-content: space-between;
+    
+    width: 300px;
+    height: 50px;
+    background-color: white;}
+
+.three-dots{
+    
+    
+}
+.account{
+    justify-content: right;
+}
+.ip-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+     }
+
+.description {
+   padding: 4px; 
+   font-size: small;
+   display: inline-block;
+}
+
+
+
+.icon1 {
+    float:left;
+}
+
+.ip-button-right {
+    float: right;
+}
+
+.ip-buttons{
+    padding: 4px;
+    font-size: large;
+}
+
+.likes{
+
+    padding: 4px; 
+   font-size: small;
+}
